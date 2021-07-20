@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Kohli",
+      "username": "kohlivirat",
+      "email": "kohlivirat@gmail.com",
+      "phone": "567854567"
+    },
+    {
+      "name": "M S Dhoni",
+      "username": "Captainxyz",
+      "email": "msdhoni@gmail.com",
+      "phone": "9876545678",
+      "id": 3
+    },
+    {
+      "name": "Saurabh Sharma",
+      "username": "saurshar",
+      "email": "saurshaz@gmail.com",
+      "phone": "9873838958",
+      "id": 5
+    }
+  ]
+}
